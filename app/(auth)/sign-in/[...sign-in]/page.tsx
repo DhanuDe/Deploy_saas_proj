@@ -6,5 +6,6 @@ const SignInPage = () => {
     <SignIn/>
   )
 }
-
+export function generateStaticParams() {
+  }
 export default SignInPage

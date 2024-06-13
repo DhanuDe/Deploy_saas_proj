@@ -6,5 +6,6 @@ const SignUpPage = () => {
     <SignUp/>
   )
 }
-
+export function generateStaticParams() {
+}
 export default SignUpPage
